@@ -28,6 +28,78 @@ namespace BBBWebMVC.Controllers
 			return View();
 		}
 
+		public IActionResult AreaRugs()
+		{
+			return View();
+		}
+
+		public IActionResult BathroomMats()
+		{
+			return View();
+		}
+
+		public IActionResult Blankets()
+		{
+			return View();
+		}
+
+		public IActionResult Contacts()
+		{
+			return View();
+		}
+
+		public IActionResult Cups()
+		{
+			return View();
+		}
+
+		public IActionResult Hats()
+		{
+			return View();
+		}
+
+		public IActionResult History()
+		{
+			return View();
+		}
+
+		public IActionResult Miscelanious()
+		{
+			return View();
+		}
+
+		public IActionResult Mugs()
+		{
+			return View();
+		}
+
+		public IActionResult PetBeds()
+		{
+			return View();
+		}
+
+		public IActionResult ShowerCurtains()
+		{
+			return View();
+		}
+
+		public IActionResult Sweatshirts()
+		{
+			return View();
+		}
+
+		public IActionResult TermsOfService()
+		{
+			return View();
+		}
+
+		public IActionResult WallPictures()
+		{
+			return View();
+		}
+
+
+
 		public IActionResult Privacy()
 		{
 			return View();
