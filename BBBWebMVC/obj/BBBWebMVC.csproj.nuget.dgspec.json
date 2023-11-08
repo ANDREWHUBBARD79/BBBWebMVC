@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Owner\\Desktop\\repos\\BBBWebMVC\\BBBWebMVC\\BBBWebMVC.csproj": {}
+    "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\BBBWebMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Owner\\Desktop\\repos\\BBBWebMVC\\BBBWebMVC\\BBBWebMVC.csproj": {
+    "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\BBBWebMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Owner\\Desktop\\repos\\BBBWebMVC\\BBBWebMVC\\BBBWebMVC.csproj",
+        "projectUniqueName": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\BBBWebMVC.csproj",
         "projectName": "BBBWebMVC",
-        "projectPath": "C:\\Users\\Owner\\Desktop\\repos\\BBBWebMVC\\BBBWebMVC\\BBBWebMVC.csproj",
+        "projectPath": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\BBBWebMVC.csproj",
         "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Owner\\Desktop\\repos\\BBBWebMVC\\BBBWebMVC\\obj\\",
+        "outputPath": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Owner\\AppData\\Roaming\\NuGet\\NuGet.Config",

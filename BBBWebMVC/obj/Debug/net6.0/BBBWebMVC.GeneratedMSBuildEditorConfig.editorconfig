@@ -9,101 +9,101 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BBBWebMVC
 build_property.RootNamespace = BBBWebMVC
-build_property.ProjectDir = C:\Users\Owner\Desktop\repos\BBBWebMVC\BBBWebMVC\
+build_property.ProjectDir = C:\Users\Owner\Desktop\repos\BBBMVC1\BBBWebMVC\BBBWebMVC\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Owner\Desktop\repos\BBBWebMVC\BBBWebMVC
+build_property.MSBuildProjectDirectory = C:\Users\Owner\Desktop\repos\BBBMVC1\BBBWebMVC\BBBWebMVC
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Owner/Desktop/repos/BBBWebMVC/BBBWebMVC/Views/Home/About.cshtml]
+[C:/Users/Owner/Desktop/repos/BBBMVC1/BBBWebMVC/BBBWebMVC/Views/Home/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/Desktop/repos/BBBWebMVC/BBBWebMVC/Views/Home/AreaRugs.cshtml]
+[C:/Users/Owner/Desktop/repos/BBBMVC1/BBBWebMVC/BBBWebMVC/Views/Home/AreaRugs.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBcmVhUnVncy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/Desktop/repos/BBBWebMVC/BBBWebMVC/Views/Home/BathroomMats.cshtml]
+[C:/Users/Owner/Desktop/repos/BBBMVC1/BBBWebMVC/BBBWebMVC/Views/Home/BathroomMats.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCYXRocm9vbU1hdHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/Desktop/repos/BBBWebMVC/BBBWebMVC/Views/Home/Blankets.cshtml]
+[C:/Users/Owner/Desktop/repos/BBBMVC1/BBBWebMVC/BBBWebMVC/Views/Home/Blankets.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCbGFua2V0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/Desktop/repos/BBBWebMVC/BBBWebMVC/Views/Home/Contacts.cshtml]
+[C:/Users/Owner/Desktop/repos/BBBMVC1/BBBWebMVC/BBBWebMVC/Views/Home/Contacts.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/Desktop/repos/BBBWebMVC/BBBWebMVC/Views/Home/Cups.cshtml]
+[C:/Users/Owner/Desktop/repos/BBBMVC1/BBBWebMVC/BBBWebMVC/Views/Home/Cups.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDdXBzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/Desktop/repos/BBBWebMVC/BBBWebMVC/Views/Home/Hats.cshtml]
+[C:/Users/Owner/Desktop/repos/BBBMVC1/BBBWebMVC/BBBWebMVC/Views/Home/Hats.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIYXRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/Desktop/repos/BBBWebMVC/BBBWebMVC/Views/Home/History.cshtml]
+[C:/Users/Owner/Desktop/repos/BBBMVC1/BBBWebMVC/BBBWebMVC/Views/Home/History.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIaXN0b3J5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/Desktop/repos/BBBWebMVC/BBBWebMVC/Views/Home/Index.cshtml]
+[C:/Users/Owner/Desktop/repos/BBBMVC1/BBBWebMVC/BBBWebMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/Desktop/repos/BBBWebMVC/BBBWebMVC/Views/Home/Miscelanious.cshtml]
+[C:/Users/Owner/Desktop/repos/BBBMVC1/BBBWebMVC/BBBWebMVC/Views/Home/Miscelanious.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNaXNjZWxhbmlvdXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/Desktop/repos/BBBWebMVC/BBBWebMVC/Views/Home/Mugs.cshtml]
+[C:/Users/Owner/Desktop/repos/BBBMVC1/BBBWebMVC/BBBWebMVC/Views/Home/Mugs.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNdWdzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/Desktop/repos/BBBWebMVC/BBBWebMVC/Views/Home/PetBeds.cshtml]
+[C:/Users/Owner/Desktop/repos/BBBMVC1/BBBWebMVC/BBBWebMVC/Views/Home/PetBeds.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQZXRCZWRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/Desktop/repos/BBBWebMVC/BBBWebMVC/Views/Home/Privacy.cshtml]
+[C:/Users/Owner/Desktop/repos/BBBMVC1/BBBWebMVC/BBBWebMVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/Desktop/repos/BBBWebMVC/BBBWebMVC/Views/Home/ShowerCurtains.cshtml]
+[C:/Users/Owner/Desktop/repos/BBBMVC1/BBBWebMVC/BBBWebMVC/Views/Home/ShowerCurtains.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaG93ZXJDdXJ0YWlucy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/Desktop/repos/BBBWebMVC/BBBWebMVC/Views/Home/Sweatshirts.cshtml]
+[C:/Users/Owner/Desktop/repos/BBBMVC1/BBBWebMVC/BBBWebMVC/Views/Home/Sweatshirts.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTd2VhdHNoaXJ0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/Desktop/repos/BBBWebMVC/BBBWebMVC/Views/Home/TermsOfService.cshtml]
+[C:/Users/Owner/Desktop/repos/BBBMVC1/BBBWebMVC/BBBWebMVC/Views/Home/TermsOfService.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUZXJtc09mU2VydmljZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/Desktop/repos/BBBWebMVC/BBBWebMVC/Views/Home/TShirts.cshtml]
+[C:/Users/Owner/Desktop/repos/BBBMVC1/BBBWebMVC/BBBWebMVC/Views/Home/TShirts.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUU2hpcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/Desktop/repos/BBBWebMVC/BBBWebMVC/Views/Home/WallPictures.cshtml]
+[C:/Users/Owner/Desktop/repos/BBBMVC1/BBBWebMVC/BBBWebMVC/Views/Home/WallPictures.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxXYWxsUGljdHVyZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/Desktop/repos/BBBWebMVC/BBBWebMVC/Views/Shared/Error.cshtml]
+[C:/Users/Owner/Desktop/repos/BBBMVC1/BBBWebMVC/BBBWebMVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/Desktop/repos/BBBWebMVC/BBBWebMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Owner/Desktop/repos/BBBMVC1/BBBWebMVC/BBBWebMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/Desktop/repos/BBBWebMVC/BBBWebMVC/Views/_ViewImports.cshtml]
+[C:/Users/Owner/Desktop/repos/BBBMVC1/BBBWebMVC/BBBWebMVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/Desktop/repos/BBBWebMVC/BBBWebMVC/Views/_ViewStart.cshtml]
+[C:/Users/Owner/Desktop/repos/BBBMVC1/BBBWebMVC/BBBWebMVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/Desktop/repos/BBBWebMVC/BBBWebMVC/Views/Shared/_Layout.cshtml]
+[C:/Users/Owner/Desktop/repos/BBBMVC1/BBBWebMVC/BBBWebMVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-rgqsmbfzzv
