@@ -1,607 +1,607 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BBBWebMVC.bundle.scp.css",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BBBWebMVC.bundle.scp.css",
       "PackagePath": "staticwebassets\\BBBWebMVC.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\css\\fontawesome-all.min.css",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\css\\fontawesome-all.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\fontawesome-all.min.css"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\css\\main.css",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\css\\main.css",
       "PackagePath": "staticwebassets\\assets\\css\\main.css"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\css\\noscript.css",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\css\\noscript.css",
       "PackagePath": "staticwebassets\\assets\\css\\noscript.css"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\js\\breakpoints.min.js",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\js\\breakpoints.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\breakpoints.min.js"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\js\\browser.min.js",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\js\\browser.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\browser.min.js"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\js\\jquery.min.js",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\js\\jquery.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\js\\main.js",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\js\\main.js",
       "PackagePath": "staticwebassets\\assets\\js\\main.js"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\js\\util.js",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\js\\util.js",
       "PackagePath": "staticwebassets\\assets\\js\\util.js"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\sass\\base\\_page.scss",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\sass\\base\\_page.scss",
       "PackagePath": "staticwebassets\\assets\\sass\\base\\_page.scss"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\sass\\base\\_reset.scss",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\sass\\base\\_reset.scss",
       "PackagePath": "staticwebassets\\assets\\sass\\base\\_reset.scss"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\sass\\base\\_typography.scss",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\sass\\base\\_typography.scss",
       "PackagePath": "staticwebassets\\assets\\sass\\base\\_typography.scss"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\sass\\components\\_actions.scss",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\sass\\components\\_actions.scss",
       "PackagePath": "staticwebassets\\assets\\sass\\components\\_actions.scss"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\sass\\components\\_box.scss",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\sass\\components\\_box.scss",
       "PackagePath": "staticwebassets\\assets\\sass\\components\\_box.scss"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\sass\\components\\_button.scss",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\sass\\components\\_button.scss",
       "PackagePath": "staticwebassets\\assets\\sass\\components\\_button.scss"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\sass\\components\\_form.scss",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\sass\\components\\_form.scss",
       "PackagePath": "staticwebassets\\assets\\sass\\components\\_form.scss"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\sass\\components\\_icon.scss",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\sass\\components\\_icon.scss",
       "PackagePath": "staticwebassets\\assets\\sass\\components\\_icon.scss"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\sass\\components\\_icons.scss",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\sass\\components\\_icons.scss",
       "PackagePath": "staticwebassets\\assets\\sass\\components\\_icons.scss"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\sass\\components\\_image.scss",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\sass\\components\\_image.scss",
       "PackagePath": "staticwebassets\\assets\\sass\\components\\_image.scss"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\sass\\components\\_list.scss",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\sass\\components\\_list.scss",
       "PackagePath": "staticwebassets\\assets\\sass\\components\\_list.scss"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\sass\\components\\_row.scss",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\sass\\components\\_row.scss",
       "PackagePath": "staticwebassets\\assets\\sass\\components\\_row.scss"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\sass\\components\\_section.scss",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\sass\\components\\_section.scss",
       "PackagePath": "staticwebassets\\assets\\sass\\components\\_section.scss"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\sass\\components\\_table.scss",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\sass\\components\\_table.scss",
       "PackagePath": "staticwebassets\\assets\\sass\\components\\_table.scss"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\sass\\components\\_tiles.scss",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\sass\\components\\_tiles.scss",
       "PackagePath": "staticwebassets\\assets\\sass\\components\\_tiles.scss"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\sass\\layout\\_footer.scss",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\sass\\layout\\_footer.scss",
       "PackagePath": "staticwebassets\\assets\\sass\\layout\\_footer.scss"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\sass\\layout\\_header.scss",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\sass\\layout\\_header.scss",
       "PackagePath": "staticwebassets\\assets\\sass\\layout\\_header.scss"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\sass\\layout\\_main.scss",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\sass\\layout\\_main.scss",
       "PackagePath": "staticwebassets\\assets\\sass\\layout\\_main.scss"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\sass\\layout\\_menu.scss",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\sass\\layout\\_menu.scss",
       "PackagePath": "staticwebassets\\assets\\sass\\layout\\_menu.scss"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\sass\\layout\\_wrapper.scss",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\sass\\layout\\_wrapper.scss",
       "PackagePath": "staticwebassets\\assets\\sass\\layout\\_wrapper.scss"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\sass\\libs\\_breakpoints.scss",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\sass\\libs\\_breakpoints.scss",
       "PackagePath": "staticwebassets\\assets\\sass\\libs\\_breakpoints.scss"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\sass\\libs\\_functions.scss",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\sass\\libs\\_functions.scss",
       "PackagePath": "staticwebassets\\assets\\sass\\libs\\_functions.scss"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\sass\\libs\\_html-grid.scss",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\sass\\libs\\_html-grid.scss",
       "PackagePath": "staticwebassets\\assets\\sass\\libs\\_html-grid.scss"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\sass\\libs\\_mixins.scss",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\sass\\libs\\_mixins.scss",
       "PackagePath": "staticwebassets\\assets\\sass\\libs\\_mixins.scss"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\sass\\libs\\_vars.scss",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\sass\\libs\\_vars.scss",
       "PackagePath": "staticwebassets\\assets\\sass\\libs\\_vars.scss"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\sass\\libs\\_vendor.scss",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\sass\\libs\\_vendor.scss",
       "PackagePath": "staticwebassets\\assets\\sass\\libs\\_vendor.scss"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\sass\\main.scss",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\sass\\main.scss",
       "PackagePath": "staticwebassets\\assets\\sass\\main.scss"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\sass\\noscript.scss",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\sass\\noscript.scss",
       "PackagePath": "staticwebassets\\assets\\sass\\noscript.scss"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\webfonts\\fa-brands-400.eot",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\webfonts\\fa-brands-400.eot",
       "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.eot"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\webfonts\\fa-brands-400.svg",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\webfonts\\fa-brands-400.svg",
       "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.svg"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\webfonts\\fa-brands-400.ttf",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\webfonts\\fa-brands-400.ttf",
       "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.ttf"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\webfonts\\fa-brands-400.woff",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\webfonts\\fa-brands-400.woff",
       "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.woff"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\webfonts\\fa-brands-400.woff2",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\webfonts\\fa-brands-400.woff2",
       "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.woff2"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\webfonts\\fa-regular-400.eot",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\webfonts\\fa-regular-400.eot",
       "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.eot"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\webfonts\\fa-regular-400.svg",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\webfonts\\fa-regular-400.svg",
       "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.svg"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\webfonts\\fa-regular-400.ttf",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\webfonts\\fa-regular-400.ttf",
       "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.ttf"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\webfonts\\fa-regular-400.woff",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\webfonts\\fa-regular-400.woff",
       "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.woff"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\webfonts\\fa-regular-400.woff2",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\webfonts\\fa-regular-400.woff2",
       "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.woff2"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\webfonts\\fa-solid-900.eot",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\webfonts\\fa-solid-900.eot",
       "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.eot"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\webfonts\\fa-solid-900.svg",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\webfonts\\fa-solid-900.svg",
       "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.svg"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\webfonts\\fa-solid-900.ttf",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\webfonts\\fa-solid-900.ttf",
       "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.ttf"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\webfonts\\fa-solid-900.woff",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\webfonts\\fa-solid-900.woff",
       "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.woff"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\webfonts\\fa-solid-900.woff2",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\assets\\webfonts\\fa-solid-900.woff2",
       "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.woff2"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\Area-Rugs.png",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\Area-Rugs.png",
       "PackagePath": "staticwebassets\\images\\Area-Rugs.png"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\BBBL.png",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\BBBL.png",
       "PackagePath": "staticwebassets\\images\\BBBL.png"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\Dennis and Rod.png",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\Dennis and Rod.png",
       "PackagePath": "staticwebassets\\images\\Dennis and Rod.png"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\Hats.png",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\Hats.png",
       "PackagePath": "staticwebassets\\images\\Hats.png"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\aaa.png",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\aaa.png",
       "PackagePath": "staticwebassets\\images\\aaa.png"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\bad hair day.png",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\bad hair day.png",
       "PackagePath": "staticwebassets\\images\\bad hair day.png"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\baseball.png",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\baseball.png",
       "PackagePath": "staticwebassets\\images\\baseball.png"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\bath-mats.png",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\bath-mats.png",
       "PackagePath": "staticwebassets\\images\\bath-mats.png"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\bbb.png",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\bbb.png",
       "PackagePath": "staticwebassets\\images\\bbb.png"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\blankets.png",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\blankets.png",
       "PackagePath": "staticwebassets\\images\\blankets.png"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\cc.png",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\cc.png",
       "PackagePath": "staticwebassets\\images\\cc.png"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\cups.png",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\cups.png",
       "PackagePath": "staticwebassets\\images\\cups.png"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\irish breakfast.png",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\irish breakfast.png",
       "PackagePath": "staticwebassets\\images\\irish breakfast.png"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\logo.svg",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\logo.svg",
       "PackagePath": "staticwebassets\\images\\logo.svg"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\lunchbreak.png",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\lunchbreak.png",
       "PackagePath": "staticwebassets\\images\\lunchbreak.png"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\miscelanious.png",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\miscelanious.png",
       "PackagePath": "staticwebassets\\images\\miscelanious.png"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\pet-beds.png",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\pet-beds.png",
       "PackagePath": "staticwebassets\\images\\pet-beds.png"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\peterman.png",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\peterman.png",
       "PackagePath": "staticwebassets\\images\\peterman.png"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\pic01.jpg",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\pic01.jpg",
       "PackagePath": "staticwebassets\\images\\pic01.jpg"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\pic02.jpg",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\pic02.jpg",
       "PackagePath": "staticwebassets\\images\\pic02.jpg"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\pic03.jpg",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\pic03.jpg",
       "PackagePath": "staticwebassets\\images\\pic03.jpg"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\pic04.jpg",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\pic04.jpg",
       "PackagePath": "staticwebassets\\images\\pic04.jpg"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\pic05.jpg",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\pic05.jpg",
       "PackagePath": "staticwebassets\\images\\pic05.jpg"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\pic06.jpg",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\pic06.jpg",
       "PackagePath": "staticwebassets\\images\\pic06.jpg"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\pic07.jpg",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\pic07.jpg",
       "PackagePath": "staticwebassets\\images\\pic07.jpg"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\pic08.jpg",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\pic08.jpg",
       "PackagePath": "staticwebassets\\images\\pic08.jpg"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\pic09.jpg",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\pic09.jpg",
       "PackagePath": "staticwebassets\\images\\pic09.jpg"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\pic10.jpg",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\pic10.jpg",
       "PackagePath": "staticwebassets\\images\\pic10.jpg"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\pic11.jpg",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\pic11.jpg",
       "PackagePath": "staticwebassets\\images\\pic11.jpg"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\pic12.jpg",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\pic12.jpg",
       "PackagePath": "staticwebassets\\images\\pic12.jpg"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\pic13.jpg",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\pic13.jpg",
       "PackagePath": "staticwebassets\\images\\pic13.jpg"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\pic14.jpg",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\pic14.jpg",
       "PackagePath": "staticwebassets\\images\\pic14.jpg"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\pic15.jpg",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\pic15.jpg",
       "PackagePath": "staticwebassets\\images\\pic15.jpg"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\pictures.png",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\pictures.png",
       "PackagePath": "staticwebassets\\images\\pictures.png"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\shower curtains.png",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\shower curtains.png",
       "PackagePath": "staticwebassets\\images\\shower curtains.png"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\store.jpg",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\store.jpg",
       "PackagePath": "staticwebassets\\images\\store.jpg"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\sweatshirts.png",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\sweatshirts.png",
       "PackagePath": "staticwebassets\\images\\sweatshirts.png"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\t-shirts.jpg",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\t-shirts.jpg",
       "PackagePath": "staticwebassets\\images\\t-shirts.jpg"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\where my coffee at.png",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\images\\where my coffee at.png",
       "PackagePath": "staticwebassets\\images\\where my coffee at.png"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVC1\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\Owner\\Desktop\\repos\\BBBMVCFINAL\\BBBWebMVC\\BBBWebMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

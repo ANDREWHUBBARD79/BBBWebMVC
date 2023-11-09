@@ -1,0 +1,51 @@
+﻿@page
+@model BBBWebMVC.Controllers.EditModel
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/_ViewImports.cshtml";
+}
+
+<h1>Edit</h1>
+
+<h4>GadgetModel</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="GadgetModel.Id" />
+            <div class="form-group">
+                <label asp-for="GadgetModel.Name" class="control-label"></label>
+                <input asp-for="GadgetModel.Name" class="form-control" />
+                <span asp-validation-for="GadgetModel.Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="GadgetModel.Description" class="control-label"></label>
+                <input asp-for="GadgetModel.Description" class="form-control" />
+                <span asp-validation-for="GadgetModel.Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="GadgetModel.AppearsIn" class="control-label"></label>
+                <input asp-for="GadgetModel.AppearsIn" class="form-control" />
+                <span asp-validation-for="GadgetModel.AppearsIn" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="GadgetModel.WithThisActor" class="control-label"></label>
+                <input asp-for="GadgetModel.WithThisActor" class="form-control" />
+                <span asp-validation-for="GadgetModel.WithThisActor" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

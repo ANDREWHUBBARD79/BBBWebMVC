@@ -1,3 +1,6 @@
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using BBBWebMVC.Data;
 namespace BBBWebMVC
 {
 	public class Program
@@ -5,6 +8,8 @@ namespace BBBWebMVC
 		public static void Main(string[] args)
 		{
 			var builder = WebApplication.CreateBuilder(args);
+			builder.Services.AddDbContext<BBBWebMVCContext>(options =>
+			    options.UseSqlServer(builder.Configuration.GetConnectionString("BBBWebMVCContext") ?? throw new InvalidOperationException("Connection string 'BBBWebMVCContext' not found.")));
 
 			// Add services to the container.
 			builder.Services.AddControllersWithViews();
