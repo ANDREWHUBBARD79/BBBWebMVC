@@ -16,22 +16,6 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Owner\Desktop\repos\BBBMVCFINAL\BBBWebMVC\BBBWebMVC
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Owner/Desktop/repos/BBBMVCFINAL/BBBWebMVC/BBBWebMVC/Controllers/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Q29udHJvbGxlcnNcRGVsZXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Owner/Desktop/repos/BBBMVCFINAL/BBBWebMVC/BBBWebMVC/Controllers/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Q29udHJvbGxlcnNcRGV0YWlscy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Owner/Desktop/repos/BBBMVCFINAL/BBBWebMVC/BBBWebMVC/Controllers/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Q29udHJvbGxlcnNcRWRpdC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Owner/Desktop/repos/BBBMVCFINAL/BBBWebMVC/BBBWebMVC/Controllers/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Q29udHJvbGxlcnNcSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/Owner/Desktop/repos/BBBMVCFINAL/BBBWebMVC/BBBWebMVC/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

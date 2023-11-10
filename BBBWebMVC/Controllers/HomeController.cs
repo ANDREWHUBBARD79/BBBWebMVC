@@ -1,4 +1,5 @@
 ﻿using BBBWebMVC.Models;
+using BBBWebMVC.Views.Gadgets;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
@@ -36,6 +37,22 @@ namespace BBBWebMVC.Controllers
 		public IActionResult BathroomMats()
 		{
 			return View();
+		}
+
+		public IActionResult Create()
+		{
+			var gadgetModel = new GadgetModel();
+			return View(gadgetModel);
+		}
+
+
+		[HttpPost]
+		public IActionResult Create(GadgetModel model)
+		{
+			// save to datebase
+			// gadgetRepository.CreateGadget(model);
+
+			return RedirectToAction("Index");
 		}
 
 		public IActionResult Blankets()
