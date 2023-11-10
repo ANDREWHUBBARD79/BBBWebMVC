@@ -8,13 +8,13 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using BBBWebMVC.Data;
 using BBBWebMVC.Models;
 
-namespace BBBWebMVC.Controllers
+namespace BBBWebMVC.Views.Gadgets
 {
     public class CreateModel : PageModel
     {
-        private readonly BBBWebMVC.Data.BBBWebMVCContext _context;
+        private readonly BBBWebMVCContext _context;
 
-        public CreateModel(BBBWebMVC.Data.BBBWebMVCContext context)
+        public CreateModel(BBBWebMVCContext context)
         {
             _context = context;
         }
@@ -26,12 +26,12 @@ namespace BBBWebMVC.Controllers
 
         [BindProperty]
         public GadgetModel GadgetModel { get; set; } = default!;
-        
+
 
         // To protect from overposting attacks, see https://aka.ms/RazorPagesCRUD
         public async Task<IActionResult> OnPostAsync()
         {
-          if (!ModelState.IsValid || _context.GadgetModel == null || GadgetModel == null)
+            if (!ModelState.IsValid || _context.GadgetModel == null || GadgetModel == null)
             {
                 return Page();
             }
